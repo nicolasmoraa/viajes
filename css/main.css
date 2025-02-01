@@ -127,19 +127,16 @@ main H1{
     }
     .imgCalafate{
         display: block;
-        gap: 20px;
     }
     .imgCosta{
         display: block;
     }
     .imgIguazu{
         display: block;
-        gap: 20px;
     }
     .viaje{
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
-        gap: 20px;
     }
     
 }
