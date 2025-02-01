@@ -25,9 +25,6 @@ box-sizing: border-box;
     color: #46553e;
 }
 .contenidoBariloche{
-    display: grid;
-    grid-template-columns: 2fr;
-    grid-template-rows: repeat(3, 1fr);
     color: black;
 }
 .imgBariloche{
@@ -57,9 +54,6 @@ box-sizing: border-box;
     color: #46553e;
 }
 .contenidoCalafate{
-    display: grid;
-    grid-template-columns: 2fr;
-    grid-template-rows: repeat(3, 1fr);
     color: black;
 }
 .imgCalafate{
@@ -86,9 +80,6 @@ box-sizing: border-box;
     color: #46553e;
 }
 .contenidoIguazu{
-    display: grid;
-    grid-template-columns: 2fr;
-    grid-template-rows: repeat(3, 1fr);
     color: black;
 }
 .imgIguazu{
@@ -113,9 +104,6 @@ box-sizing: border-box;
 }
 
 .contenidoCosta{
-    display: grid;
-    grid-template-columns: 2fr;
-    grid-template-rows: repeat(3, 1fr);
     color: black;
 }
 .imgCosta{
