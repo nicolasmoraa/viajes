@@ -123,20 +123,23 @@ main H1{
 @media screen and (max-width: 600px){ 
     .imgBariloche{
         display: block;
+        gap: 20px;
     }
     .imgCalafate{
         display: block;
+        gap: 20px;
     }
     .imgCosta{
         display: block;
     }
     .imgIguazu{
         display: block;
+        gap: 20px;
     }
     .viaje{
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
-        column-gap: 20px;
+        gap: 20px;
     }
     
 }
